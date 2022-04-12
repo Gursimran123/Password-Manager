@@ -1,1 +1,1 @@
-# Password-Manager
+This project is about how we can remember our passwords or manage them because it is imposible for us to remmember the passwords of all the websites, so this project is all  about generating the password and storing it in text file
